@@ -9,6 +9,6 @@ class Solution:
                 r -= 1
             elif currentsum < target:
                 l += 1
-            else:
+            elif currentsum == target:
                 return [index_nums[l][1], index_nums[r][1]]
         return []
