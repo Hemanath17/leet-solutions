@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Hemanath17/leet-solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
