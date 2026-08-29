@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemanath17/leet-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Hemanath17/leet-solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Hemanath17/leet-solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
