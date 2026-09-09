@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Hemanath17/leet-solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Hemanath17/leet-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Hemanath17/leet-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Hemanath17/leet-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Hemanath17/leet-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Hemanath17/leet-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanath17/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Hemanath17/leet-solutions/tree/master/0392-is-subsequence) |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/Hemanath17/leet-solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Hemanath17/leet-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
