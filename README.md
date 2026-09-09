@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemanath17/leet-solutions/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hemanath17/leet-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hemanath17/leet-solutions/tree/master/0205-isomorphic-strings) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemanath17/leet-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
