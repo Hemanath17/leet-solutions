@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Hemanath17/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hemanath17/leet-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemanath17/leet-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Hemanath17/leet-solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 ## Trie
 |  |
 | ------- |
