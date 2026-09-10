@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Hemanath17/leet-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Hemanath17/leet-solutions/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/Hemanath17/leet-solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanath17/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Hemanath17/leet-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Hemanath17/leet-solutions/tree/master/0136-single-number) |
 ## Breadth-First Search
 |  |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Hemanath17/leet-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
