@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Hemanath17/leet-solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Hemanath17/leet-solutions/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Hemanath17/leet-solutions/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/Hemanath17/leet-solutions/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Hemanath17/leet-solutions/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Hemanath17/leet-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/Hemanath17/leet-solutions/tree/master/1280-students-and-examinations) |
