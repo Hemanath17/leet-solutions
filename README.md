@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Hemanath17/leet-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hemanath17/leet-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Hemanath17/leet-solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hemanath17/leet-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Hemanath17/leet-solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemanath17/leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Hemanath17/leet-solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanath17/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Hemanath17/leet-solutions/tree/master/0205-isomorphic-strings) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Hemanath17/leet-solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Hemanath17/leet-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/Hemanath17/leet-solutions/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Hemanath17/leet-solutions/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -180,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hemanath17/leet-solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## String Matching
 |  |
@@ -288,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
