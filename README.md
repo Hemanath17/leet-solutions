@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hemanath17/leet-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Hemanath17/leet-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -309,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
