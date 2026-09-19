@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Hemanath17/leet-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Hemanath17/leet-solutions/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Hemanath17/leet-solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Hemanath17/leet-solutions/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Hemanath17/leet-solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hemanath17/leet-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Hemanath17/leet-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Hemanath17/leet-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanath17/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Hemanath17/leet-solutions/tree/master/0076-minimum-window-substring) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Backtracking
 |  |
