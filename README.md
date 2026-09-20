@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Hemanath17/leet-solutions/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
 | [0392-is-subsequence](https://github.com/Hemanath17/leet-solutions/tree/master/0392-is-subsequence) |
+| [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Hemanath17/leet-solutions/tree/master/0647-palindromic-substrings) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Greedy
@@ -346,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
