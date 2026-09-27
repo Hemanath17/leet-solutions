@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hemanath17/leet-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1929-concatenation-of-array](https://github.com/Hemanath17/leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hemanath17/leet-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -371,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Hemanath17/leet-solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
