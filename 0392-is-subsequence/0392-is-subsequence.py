@@ -1,8 +1,9 @@
 class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
-        i, j = 0, 0 
-        while i < len(s) and j < len(t):
-            if s[i] == t[j]:
-                i+= 1
-            j += 1
-        return True if i == len(s) else False
+        l = 0
+        r = 0
+        while l<len(s) and r <len(t):
+            if s[l] == t[r]:
+                l+=1
+            r+=1
+        return l==len(s)
