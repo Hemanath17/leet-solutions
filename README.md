@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Hemanath17/leet-solutions/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0485-max-consecutive-ones](https://github.com/Hemanath17/leet-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
