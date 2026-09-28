@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanath17/leet-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Hemanath17/leet-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Hemanath17/leet-solutions/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hemanath17/leet-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0645-set-mismatch](https://github.com/Hemanath17/leet-solutions/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanath17/leet-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hemanath17/leet-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hemanath17/leet-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
 | [0645-set-mismatch](https://github.com/Hemanath17/leet-solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanath17/leet-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hemanath17/leet-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Counting
 |  |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Hemanath17/leet-solutions/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanath17/leet-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
 | ------- |
