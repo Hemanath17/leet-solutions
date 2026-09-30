@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Hemanath17/leet-solutions/tree/master/0152-maximum-product-subarray) |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Hemanath17/leet-solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Hemanath17/leet-solutions/tree/master/0392-is-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Hemanath17/leet-solutions/tree/master/0647-palindromic-substrings) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Hemanath17/leet-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Hemanath17/leet-solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Hemanath17/leet-solutions/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Hemanath17/leet-solutions/tree/master/0645-set-mismatch) |
 ## Breadth-First Search
 |  |
