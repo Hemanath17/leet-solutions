@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Hemanath17/leet-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Hemanath17/leet-solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/Hemanath17/leet-solutions/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanath17/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Hemanath17/leet-solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Hemanath17/leet-solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Hemanath17/leet-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Hemanath17/leet-solutions/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanath17/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Hemanath17/leet-solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemanath17/leet-solutions/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Hemanath17/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
