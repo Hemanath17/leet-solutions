@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Hemanath17/leet-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
@@ -406,4 +407,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Hemanath17/leet-solutions/tree/master/1929-concatenation-of-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Hemanath17/leet-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
