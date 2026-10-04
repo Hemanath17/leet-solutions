@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Hemanath17/leet-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Hemanath17/leet-solutions/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0518-coin-change-ii) |
+| [0605-can-place-flowers](https://github.com/Hemanath17/leet-solutions/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/Hemanath17/leet-solutions/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Hemanath17/leet-solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Hemanath17/leet-solutions/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/Hemanath17/leet-solutions/tree/master/0605-can-place-flowers) |
 ## Counting Sort
 |  |
 | ------- |
