@@ -31,3 +31,7 @@ class Solution:
             else:
                 i += 1
         return ''.join(result)
+        
+        # words = s.split()
+        # words.reverse()
+        # return " ".join(words)
