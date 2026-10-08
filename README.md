@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hemanath17/leet-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/Hemanath17/leet-solutions/tree/master/1929-concatenation-of-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hemanath17/leet-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Hemanath17/leet-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Hemanath17/leet-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Hemanath17/leet-solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Hemanath17/leet-solutions/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Hemanath17/leet-solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
