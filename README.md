@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Hemanath17/leet-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Hemanath17/leet-solutions/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Hemanath17/leet-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Hemanath17/leet-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Hemanath17/leet-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hemanath17/leet-solutions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Hemanath17/leet-solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Quicksort
