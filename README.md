@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/Hemanath17/leet-solutions/tree/master/0337-house-robber-iii) |
+| [0543-diameter-of-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Knapsack Problem
 |  |
