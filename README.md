@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Hemanath17/leet-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Hemanath17/leet-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Hemanath17/leet-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hemanath17/leet-solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Hemanath17/leet-solutions/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Hemanath17/leet-solutions/tree/master/0206-reverse-linked-list) |
 ## Math
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Hemanath17/leet-solutions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Hemanath17/leet-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Hemanath17/leet-solutions/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Hemanath17/leet-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Hemanath17/leet-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Hemanath17/leet-solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Hemanath17/leet-solutions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Hemanath17/leet-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hemanath17/leet-solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Hemanath17/leet-solutions/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Hemanath17/leet-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Hemanath17/leet-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Hemanath17/leet-solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
