@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Hemanath17/leet-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Hemanath17/leet-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Hemanath17/leet-solutions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Hemanath17/leet-solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Hemanath17/leet-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/Hemanath17/leet-solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Hemanath17/leet-solutions/tree/master/0268-missing-number) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hemanath17/leet-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Hemanath17/leet-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Hemanath17/leet-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Hemanath17/leet-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Hemanath17/leet-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hemanath17/leet-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Hemanath17/leet-solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Hemanath17/leet-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Hemanath17/leet-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Hemanath17/leet-solutions/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Hemanath17/leet-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Hemanath17/leet-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Hemanath17/leet-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Hemanath17/leet-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Hemanath17/leet-solutions/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/Hemanath17/leet-solutions/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Hemanath17/leet-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Hemanath17/leet-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Hemanath17/leet-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Hemanath17/leet-solutions/tree/master/0994-rotting-oranges) |
