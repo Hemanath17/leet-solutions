@@ -1,6 +1,6 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        dp = [[0] *n for i in range(m)]
+        dp = [[0] * n for i in range(m)]
         for col in range(n):
             dp[0][col] = 1
         for row in range(m):
