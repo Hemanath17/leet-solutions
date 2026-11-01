@@ -3,10 +3,10 @@ class Solution:
         rows = len(grid)
         cols = len(grid[0])
         queue = deque()
-        fresh =0
+        fresh = 0
         for r in range(rows):
             for c in range(cols):
-                if grid[r][c]==2:
+                if grid[r][c] ==2:
                     queue.append((r,c))
                 elif grid[r][c]==1:
                     fresh+=1
@@ -17,22 +17,19 @@ class Solution:
             (0,-1),
             (0,1)
         ]
-        while queue and fresh >0:
-            level_size = len(queue)
-            for i in range(level_size):
+        while queue and fresh>0:
+            for i in range(len(queue)):
                 r,c = queue.popleft()
                 for dr, dc in directions:
                     nr = r+dr
                     nc = c+dc
-                    if (
-                        0 <= nr < rows
-                        and 0 <= nc <cols
-                        and grid[nr][nc]==1
-                    ):
+                    if nr<0 or nr>=rows or nc<0 or nc>=cols:
+                        continue
+                    if grid[nr][nc] ==1:
                         grid[nr][nc]=2
                         fresh-=1
                         queue.append((nr,nc))
-            mins +=1
+            mins+=1
         if fresh>0:
             return -1
         return mins
